@@ -1,4 +1,6 @@
 # YOLOv5 general utils
+import warnings
+warnings.filterwarnings("ignore")
 
 import glob
 import logging
